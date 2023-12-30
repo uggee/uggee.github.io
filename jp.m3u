@@ -1,1 +1,113 @@
-
+#EXTM3U8
+#BS
+#EXTINF:-1 tvg-chno="101" tvg-id="NHKBS1.jp" tvg-name="NHKBS1" tvg-logo="https://i.imgur.com/1x8256Y.png" group-title="BS",NHK BS1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="103" tvg-id="NHKBSPremium.jp" tvg-name="NHKBSプレミアム" tvg-logo="https://i.imgur.com/fiJ3Pnh.png" group-title="BS",NHK BSプレミアム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="141" tvg-id="BSNipponTV.jp" tvg-name="BS日テレ" tvg-logo="https://i.imgur.com/Zj3FywH.png" group-title="BS",BS日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="151" tvg-id="BSAsahi.jp" tvg-name="BS朝日" tvg-logo="https://i.imgur.com/tYe90nA.png" group-title="BS",BS朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="161" tvg-id="BSTBS.jp" tvg-name="BS-TBS" tvg-logo="https://i.imgur.com/C3MK6Tx.png" group-title="BS",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="171" tvg-id="BSTVTokyo.jp" tvg-name="BSテレ東" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="BS",BSテレ東
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="181" tvg-id="BSFuji.jp" tvg-name="BSフジ" tvg-logo="https://i.imgur.com/LyrhEz0.png" group-title="BS",BSフジ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="191" tvg-id="WOWOWPrime.jp" tvg-name="WOWOWプライム" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="BS",WOWOW プライム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="192" tvg-id="WOWOWLive.jp" tvg-name="WOWOWライブ" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="BS",WOWOW ライブ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="193" tvg-id="WOWOWCinema.jp" tvg-name="WOWOWシネマ" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="BS",WOWOW シネマ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="200" tvg-id="Star1.jp" tvg-name="スターチャンネル1" tvg-logo="https://i.imgur.com/zzcztoQ.png" group-title="BS",スターチャンネル1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="201" tvg-id="Star2.jp" tvg-name="スターチャンネル2" tvg-logo="https://i.imgur.com/M5PpQss.png" group-title="BS",スターチャンネル2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="202" tvg-id="Star3.jp" tvg-name="スターチャンネル3" tvg-logo="https://i.imgur.com/77vu7v4.png" group-title="BS",スターチャンネル3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="236" tvg-id="Animax.jp" tvg-name="BSアニマックス" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="BS",BSアニマックス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="242" tvg-id="JSports1.jp" tvg-name="J Sports 1" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="BS",J Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="243" tvg-id="JSports2.jp" tvg-name="J Sports 2" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="BS",J Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="244" tvg-id="JSports3.jp" tvg-name="J Sports 3" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="BS",J Sports 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="245" tvg-id="JSports4.jp" tvg-name="J Sports 4" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="BS",J Sports 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="255" tvg-id="NihonEigaSenmonChannel.jp" tvg-name="日本映画専門ch" tvg-logo="https://i.imgur.com/vMtPnYi.png" group-title="BS",日本映画専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
+#SpecialTest
+#EXTINF:-1 group-title="Test" tvg-id="chibatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg", Chiba TV HD (Test)
+http://for-testonly.ra1n.lol/chibatv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="rcc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/768px-Rcc_logo_2022.svg.png", RCC HD (Test)
+http://for-testonly.ra1n.lol/rcc/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 HD (Test)
+http://for-testonly.ra1n.lol/bs11/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
+http://for-testonly.ra1n.lol/at-x/index.m3u8
+#EXTINF:-1,NHKBS1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,NHKBSP
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,BS日テレ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,BS朝日 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,BS-TBS (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,BSテレ東 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,BSフジ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,NHK総合・東京
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,NHK Eテレ・東京
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,日本テレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,テレビ朝日
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,TBSテレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,テレビ東京
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,フジテレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,日テレNEWS24
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,NHK 2M1080
+http://203.162.235.41:16901
+#EXTINF:-1,NHK World 720
+http://203.162.235.41:16902
+#EXTINF:-1,NHK G 720
+http://203.162.235.41:16903
+#EXTINF:-1,フジテレビ 720
+http://203.162.235.41:16904
+#EXTINF:-1,越南 720
+http://203.162.235.41:16905
+#EXTINF:-1,tv asahi 720
+http://203.162.235.41:16906
+#EXTINF:-1,TBS 720
+http://203.162.235.41:16907
+#EXTINF:-1,2M1080
+http://203.162.235.41:16908
+#EXTINF:-1,NHK BS1 720
+http://203.162.235.41:16909
+#EXTINF:-1,NHK BSP 720
+http://203.162.235.41:16910
+#EXTINF:-1,WOWWOW プライム 720
+http://203.162.235.41:16916
+#EXTINF:-1,Animax 720
+http://203.162.235.41:16924
+#EXTINF:-1,BSフジ 720
+http://203.162.235.41:22101
+#EXTINF:-1,BSテレ東 720
+http://203.162.235.41:23102
+#EXTINF:-1,BS日テレ 720
+http://203.162.235.41:24103
+#EXTINF:-1,BS-TBS 720
+http://203.162.235.41:26105
+#EXTINF:-1,BS朝日 720
+http://203.162.235.41:29108
