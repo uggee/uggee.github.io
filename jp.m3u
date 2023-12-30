@@ -4,7 +4,7 @@ https://i.loadbt.tk/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35
 #EXTINF:-1 tvg-chno="101" tvg-id="NHKBS1.jp" tvg-name="NHKBS1" tvg-logo="https://i.imgur.com/1x8256Y.png" group-title="BS",日本テレビNEWS24 NTV
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8 
 #BS
-#EXTINF:-1 tvg-chno="101" tvg-id="NHKBS1.jp" tvg-name="NHKBS1" tvg-logo="https://i.imgur.com/1x8256Y.png" group-title="BS",NHK world 
+#EXTINF:-1 tvg-chno="101" tvg-id="NHKBS1.jp" tvg-name="NHKBS1" tvg-logo="https://i.imgur.com/1x8256Y.png" group-title="BS",NHK WORLD JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="NHKBS1.jp" tvg-name="NHKBS1" tvg-logo="https://i.imgur.com/1x8256Y.png" group-title="BS",NHK BS1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
