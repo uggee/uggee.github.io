@@ -1,5 +1,5 @@
 #EXTM3U8
-
+#EXTINF:-1 tvg-chno="101" tvg-id="NHKBS1.jp" tvg-name="NHKBS1" tvg-logo="https://i.imgur.com/1x8256Y.png" group-title="BS",FASHION 
 http://s.loadbt.tk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="NHKBS1.jp" tvg-name="NHKBS1" tvg-logo="https://i.imgur.com/1x8256Y.png" group-title="BS",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8 
