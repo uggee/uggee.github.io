@@ -1,4 +1,8 @@
 #EXTM3U8
+#EXTINF:-1,arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+#EXTINF:-1,KBS
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1,KR ABN
 https://abn.loadbt.tk/IPHONE/abn.m3u8
 #EXTINF:-1,SUZHOU 4K
