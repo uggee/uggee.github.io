@@ -1,4 +1,6 @@
 #EXTM3U8
+#EXTINF:-1, BBC EU
+https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, BLOOMBERG
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, CBSN TEXAS
