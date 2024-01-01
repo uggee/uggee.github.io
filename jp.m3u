@@ -1,8 +1,4 @@
 #EXTM3U8
-#EXTINF:-1,翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-#EXTINF:-1,翡翠台1
-http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 #EXTINF:-1 tvg-id="BeanoTV.uk",Beano TV (720p)
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us",Bloomberg TV+ UHD (2160p)
@@ -22,7 +18,6 @@ https://fashiontv-fashiontv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="GustoTV.us",Gusto TV (720p)
 https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="HorseCountryTV.uk",Horse and Country (720p)
-https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl",Insight TV (720p)
 https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InWild.nl",InWild (720p)
