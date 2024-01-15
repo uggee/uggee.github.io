@@ -1,4 +1,12 @@
 #EXTM3U8
+#EXTINF:-1,凤凰资讯
+https://tw.loadbt.tk/live/PhoenixNews/index.m3u8
+#EXTINF:-1,凤凰资讯.
+https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1,凤凰卫视
+https://tw.loadbt.tk/live/PhxChinese/index.m3u8
+#EXTINF:-1,凤凰卫视.
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1,Dongsen Foreign Movie
 https://tw.loadbt.tk/live/DongsenForeignMovie/index.m3u8
 #EXTINF:-1,Dongsen Movie
