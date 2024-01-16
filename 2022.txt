@@ -2,6 +2,13 @@
 
 https://github.com/lizongying/my-tv/blob/main/app/src/main/java/com/lizongying/mytv/TVList.kt
 
+#EXTINF:-1 tvg-id="JOWIDTV.jp",TV-U Yamagata (Youtube) (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCTWatTAOnFVB0vwIetZCTHw.m3u8
+#EXTINF:-1 tvg-id="TVBSNews.tw",TVBS News (TVBS新聞台)
+https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#EXTINF:-1 tvg-id="TVCNews.ng",TVC News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8
+
 
 chinamobile.com
 
