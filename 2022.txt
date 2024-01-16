@@ -10,8 +10,6 @@ https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 https://ythls.armelin.one/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8
 
 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705399877/ei/5QGmZYGwEKyZvdIP1ZSnkAE/ip/141.101.98.248/id/m_dhMSvUCIc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1ctJ8BaHsKZvPADGCRiEbWZViR5S8SvGpw_jx0gEaQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaSwEUa_ZdXi_hYWdot7IrUIflld5_ZH5cL5RQLtS6qQCIQD_noy8UVRnDDf8Efmd4dtBGljvjEDxWeyGPnFKaVHsMA%3D%3D/file/index.m3u8
-
 
 chinamobile.com
 
