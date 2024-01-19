@@ -1,5 +1,5 @@
 
-
+https://fastly.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
 
 20240116
 
