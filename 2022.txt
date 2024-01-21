@@ -1,7 +1,8 @@
 jp
-
 https://github.com/atsushi444/iptv/blob/main/channel/JP.txt
 
+澳门莲花
+https://edge1.laotv.la:443/live/AomenLotus/index.m3u8
 
 
 https://fastly.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
