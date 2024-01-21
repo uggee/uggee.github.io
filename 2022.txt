@@ -1,3 +1,8 @@
+jp
+
+https://github.com/atsushi444/iptv/blob/main/channel/JP.txt
+
+
 
 https://fastly.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
 
