@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1,凤凰资讯
-https://tw.loadbt.tk/live/PhoenixNews/index.m3u8
-#EXTINF:-1,凤凰资讯.
-https://edge1.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1,凤凰卫视
-https://tw.loadbt.tk/live/PhxChinese/index.m3u8
-#EXTINF:-1,凤凰卫视.
-https://edge2.laotv.la/live/PhxChinese/index.m3u8
-#EXTINF:-1,Dongsen Foreign Movie
-https://tw.loadbt.tk/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1,Dongsen Movie
-https://tw.loadbt.tk/live/DongsenMovie/index.m3u8
+#EXTINF:-1,TBS
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,TBS.
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,BS TBS
+https://i.loadbt.tk/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,BS TBS.
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1,NHK G
 https://i.loadbt.tk/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1,NHK G.
@@ -33,14 +29,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:2
 https://i.loadbt.tk/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1,Nippon TV.
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1,TBS
-https://i.loadbt.tk/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1,TBS.
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1,BS TBS
-https://i.loadbt.tk/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1,BS TBS.
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1,FujiTv
 https://i.loadbt.tk/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1,FujiTv.
@@ -63,16 +51,16 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:2
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Beano TV (720p)
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Bloomberg TV+ UHD (2160p)
+#EXTINF:-1,Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1,Bloomberg TV(2160p)
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us",Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Bloomberg TV
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Bloomberg TV be
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive9.us",ABC News Live 9 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive10.us",ABC News Live 10 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 #EXTINF:-1,CBS NEWS
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1,CBS NEWS2 NEW YORK
@@ -212,10 +200,6 @@ https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/
 https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
 #EXTINF:-1 tvg-id="BeanoTV.uk",Beano TV (720p)
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPlus.us",Bloomberg TV+ UHD (2160p)
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPlus.us",Bloomberg TV+ UHD (2160p)
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr",Clubbing TV (720p)
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Comedy Channel (1080p)
@@ -858,6 +842,18 @@ http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="TalkTV" tvg-logo="https://epg.112114.xyz/logo/TALKTV.png" group-title="国际",TalkTV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="国际",TRT世界
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="国际",台湾Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1,凤凰资讯
+https://tw.loadbt.tk/live/PhoenixNews/index.m3u8
+#EXTINF:-1,凤凰资讯.
+https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1,凤凰卫视
+https://tw.loadbt.tk/live/PhxChinese/index.m3u8
+#EXTINF:-1,凤凰卫视.
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1,Dongsen Foreign Movie
+https://tw.loadbt.tk/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1,Dongsen Movie
+https://tw.loadbt.tk/live/DongsenMovie/index.m3u8
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
