@@ -1,3 +1,9 @@
+/api/manifest/hls_playlist/expire/1708179018/ei/6mnQZf3nJICa2_gPk8ey0Ak/ip/23.102.139.123/id/CKjSm5ZeehE.85/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host
+
+256
+
+
+
 N1  CoreELEC 20.1
 https://www.right.com.cn/forum/thread-8283359-1-1.html
 
