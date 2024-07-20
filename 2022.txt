@@ -1,1 +1,4 @@
 
+#EXTINF:-1 tvg-id="TVOKids.ca",TVOKids
+
+https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
