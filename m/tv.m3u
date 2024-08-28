@@ -20,8 +20,7 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/0054be
 #EXTINF:-1,#7　#7　変わりゆく日常00
 https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/0054bece-bd05-4c97-805c-65eff8bd7655/10s/master.m3u8?fastly_token=NjZmM2JmZjNfN2ZkNjkwNzFiNGMyYWU0OWU4OGFlZDIzNTBkYjIzMzJkZjY3YTQ5YmFkOTM4OWY4MzNlMDFhMjI1NDEyNDk3Ng
 
-#EXTINF:-1,#7　#7　変わりゆく日常1
-#https://tver.jp/episodes/epytt8mpp1
+#EXTINF:-1,#7　#7　変わりゆく日常1 #https://tver.jp/episodes/epytt8mpp1
 https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/0054bece-bd05-4c97-805c-65eff8bd7655/1b459af5-9e76-4d42-b20a-63fefa3e4c50/10s/rendition.m3u8?fastly_token=NjZmMzhjYTZfNjI2YzIwNjBlMjQ0OGYxNjVhNTg4MzFjYzk0NjhiZGE5YzQ3YTUxNDJhMTA3MDQwZTNlMzI2NTY1MzFjZTc5Nw==
 
 #EXTINF:-1,#7　#7　変わりゆく日常 2
