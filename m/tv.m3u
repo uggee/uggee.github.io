@@ -2,39 +2,18 @@
 #EXTINF:-1,#1　2周目の人生スタート
 #https://tver.jp/episodes/ep1eadlri1
 
-#EXTINF:-1,#6
-https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/08f0b673-837b-4cde-af86-91c35865b2d1/10s/master.m3u8?fastly_token=NjZmM2MyZWFfMmQ2MDAxNDNkOTAyOGIyZTExNjYxN2QwOGQwYTYxNDFlMjYxZWI3OGM3MzI4ZjMwNzhlMDQwMDY4NTVjNjlhNA
 
 
 
-#EXTINF:-1,#1　2周目の人生スタート 有声
+#EXTINF:-1,#1　2周目の人生スタート
 https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/9d8ac954-6b91-4cc5-8523-1ef41e36c173/10s/master.m3u8?fastly_token=NjZmM2IwZTRfMzQ1OGY1NmU0ZGEyMmU1YjNiY2NkMTk5ZTNlYzI2NDIwMjdjYjM4ODQ4YTJhMjM1MTUxOTkxNGZlZjk3Yjk2YQ
 
+#EXTINF:-1,#6　救世主
+https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/08f0b673-837b-4cde-af86-91c35865b2d1/10s/master.m3u8?fastly_token=NjZmM2MyZWFfMmQ2MDAxNDNkOTAyOGIyZTExNjYxN2QwOGQwYTYxNDFlMjYxZWI3OGM3MzI4ZjMwNzhlMDQwMDY4NTVjNjlhNA
 
-#EXTINF:-1,#1　2周目の人生スタート1
-https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/9d8ac954-6b91-4cc5-8523-1ef41e36c173/94ecf3f5-ec7f-4e37-af82-798beec4d445/10s/rendition.m3u8?fastly_token=NjZlZTQ2ZDlfMWM0Yjk1MWJkNTQ2MzZkNzgyZTY3NGIzMzBlYTYwYzNjMzAxM2E2NzkxYmI4Yzk5NWQxMjY2YmUzMWViMjgzNw==
-#EXTINF:-1,#1　2周目の人生スタート2
-https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/9d8ac954-6b91-4cc5-8523-1ef41e36c173/5d81786d-4429-43cc-8373-4bb6a1f1912e/10s/rendition.m3u8?fastly_token=NjZlZTQ2ZDlfODg2NTdkMTEwMDQ1MjU4Yzc2MTJjN2RhMTcxMTFjYWIxOTExMjQ3MGExZGJjODcwZmI2NTY1ZTllZTJlZTc3ZQ==
-#EXTINF:-1,#1　2周目の人生スタート3
-https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/9d8ac954-6b91-4cc5-8523-1ef41e36c173/b54ce8c5-357a-4c21-8434-aa0b993ae090/10s/rendition.m3u8?fastly_token=NjZlZTQ2ZDlfYzMxNmY2Y2QwY2Q0NmM4ZGQzMTgwMTJlZmEyMTRkMmQyMzE3Yjg4MGE5ZGViZTdlMmRiMTU5NmMzYjQ0YWM1ZA==
-#EXTINF:-1,#1　2周目の人生スタート4
-https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/9d8ac954-6b91-4cc5-8523-1ef41e36c173/ab940d4f-da59-411d-8005-17e2b5ad8125/10s/rendition.m3u8?fastly_token=NjZlZTQ2ZDlfZDdhNmM4NjdhODQ5ZmY5ODIzNGJmMTg0NTQ0ZGI4NmU5ODFiYTg5OGM2MGEwOWM0NTY5MWJiZThlZjQ2YTVmZg==
-
-
-#EXTINF:-1,#7　#7　変わりゆく日常000
-#https://tver.jp/episodes/epytt8mpp1
-https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=5fed411150964c0392e640c&account=4394098882001&destination=https://tver.jp/episodes/epytt8mpp1&platform_version=6.62.0&player=players.brightcove.com/4394098882001/L3xqlxT7zF_default&player_name=TVer Player for NTV[V6本番用]&source=&time=1724827920882&event=video_engagement&player_height=296&player_width=526&video_duration=2722.1190000000133&video=6320761785112&video_name=ブラッシュアップライフ 2023年放送 #7　変わりゆく日常&rendition_url=https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/0054bece-bd05-4c97-805c-65eff8bd7655/6275d841-c1ab-4643-a350-cd161baa0544/10s/rendition.m3u8?fastly_token=NjZmMzhjYTZfNDM3NGJjZjFkZTg5OTU1NTZiOTkyNzhhMTg2ZmUzNzcyZTc0OGIzMWQ4MWI0ZTM3M2VmN2M5MDI4OGQ1NzE0OQ%3D%3D&rendition_indicated_bps=940500&rendition_mime_type=application/vnd.apple.mpegurl&rendition_height=720&rendition_width=1280&media_requests=15&media_transfer_duration=30928&media_bytes_transferred=8449216&measured_bps=4701691&media_seconds_loaded=139.51&rebuffering_seconds=0.1&forward_buffer_seconds=39.639291&media_url=https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/0054bece-bd05-4c97-805c-65eff8bd7655/10s/master.m3u8?fastly_token=NjZmM2JmZjNfN2ZkNjkwNzFiNGMyYWU0OWU4OGFlZDIzNTBkYjIzMzJkZjY3YTQ5YmFkOTM4OWY4MzNlMDFhMjI1NDEyNDk3Ng%3D%3D&qos.derived_range=19..28&range=19..28&qos.frames.dropped=48&qos.frames.corrupted=0&qos.frames.total=907&seq=11_0
-
-#EXTINF:-1,#7　#7　変わりゆく日常0
-https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/0054bece-bd05-4c97-805c-65eff8bd7655/6275d841-c1ab-4643-a350-cd161baa0544/10s/rendition.m3u8?fastly_token=NjZmMzhjYTZfNDM3NGJjZjFkZTg5OTU1NTZiOTkyNzhhMTg2ZmUzNzcyZTc0OGIzMWQ4MWI0ZTM3M2VmN2M5MDI4OGQ1NzE0OQ
-#EXTINF:-1,#7　#7　変わりゆく日常00
+#EXTINF:-1,#7　#7　変わりゆく日常
 https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/0054bece-bd05-4c97-805c-65eff8bd7655/10s/master.m3u8?fastly_token=NjZmM2JmZjNfN2ZkNjkwNzFiNGMyYWU0OWU4OGFlZDIzNTBkYjIzMzJkZjY3YTQ5YmFkOTM4OWY4MzNlMDFhMjI1NDEyNDk3Ng
 
-#EXTINF:-1,#7　#7　変わりゆく日常1 #https://tver.jp/episodes/epytt8mpp1
-https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/0054bece-bd05-4c97-805c-65eff8bd7655/1b459af5-9e76-4d42-b20a-63fefa3e4c50/10s/rendition.m3u8?fastly_token=NjZmMzhjYTZfNjI2YzIwNjBlMjQ0OGYxNjVhNTg4MzFjYzk0NjhiZGE5YzQ3YTUxNDJhMTA3MDQwZTNlMzI2NTY1MzFjZTc5Nw==
-
-#EXTINF:-1,#7　#7　変わりゆく日常 2
-https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/0054bece-bd05-4c97-805c-65eff8bd7655/daf0d8af-adcc-4082-9218-2a4d9d8c0307/10s/rendition.m3u8?fastly_token=NjZmMzhjYTZfNzMyNzA1MTAxNGY1OWFkYTBkN2UzNzJiZGUwYmY1YWNkNDNiMGFhOGY1ODdiZDMzZmY4OWMyNWM1OWE0ZjJkYQ==
 
 
 
