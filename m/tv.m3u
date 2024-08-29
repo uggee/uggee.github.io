@@ -13,10 +13,6 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/08f0b6
 
 #EXTINF:-1,#7　#7　変わりゆく日常
 https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/0054bece-bd05-4c97-805c-65eff8bd7655/10s/master.m3u8?fastly_token=NjZmM2JmZjNfN2ZkNjkwNzFiNGMyYWU0OWU4OGFlZDIzNTBkYjIzMzJkZjY3YTQ5YmFkOTM4OWY4MzNlMDFhMjI1NDEyNDk3Ng
-
-
-
-
 #EXTINF:-1,初恋不倫～この恋を初恋と呼んでいいですか～_第8話 恋のめざめ。全てを告白した妻は…
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/3971130137001/08f0e284-b2df-45bc-9980-0f4ab37c88ad/10s/master.m3u8?behavior_id=f0876aa7-0bab-4049-ab23-1b2001ff7c79&fastly_token=NjZmM2IyOTBfNTg2NjljNTI3MjdjOTk4ZmYzYTUxMjk5ZjBhNzNmNWFjZDQxYzQzODc3OTZjN2Y5MmFlZjVhZTU3NGRmNGEyOQ
 
@@ -24,4 +20,9 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/3971130137001/08f0e2
 
 #EXTINF:-1,台湾TVBS欢乐台
 http://211.72.174.95:8108/0.ts
+
+#EXTINF:-1,第１話 知りたくない？一線の越え方
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/4e0675d4-198f-4491-aebd-a9c81fd4366c/10s/master.m3u8?fastly_token=NjZmM2IxYWNfMzE5YmMxMTkzYTY2Nzk2MjljYjk5ZmM4YzNkZjQyNGUxMTlmYTkxNGJhMmI3ZDJkMjkyMjg1MzQ0OWUyOTJhYw
+
+
 
