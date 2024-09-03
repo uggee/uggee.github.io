@@ -3,6 +3,18 @@
 #EXTINF:-1,第１話 【木村拓哉主演 映画『グランメゾン パリ』2024冬 劇場公開】
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/373b0ec4-9311-4c11-9480-32406fcd6598/10s/master.m3u8?fastly_token=NjZmODM3MzZfNTU4ZGI5ZGFlYjQxNGE5NDdhYjVhNjM5NzU4MmZiODgwYThiMDYzYjNkYTNjMGY4YWE1ODYwZTBkMDk3YjU4Yw
 
+#EXTINF:-1,第２話 【木村拓哉主演 映画『グランメゾン パリ』2024冬 劇場公開】
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/93170067-3afb-44dd-bf55-75532a104cfa/10s/master.m3u8?fastly_token=NjZmYjlhN2FfMWMxYmMyYTA4ZDViMTk2YjRlMTRkZGZkZmVmZTc3NjVmM2I1MDQ4MTdlZjA2MTI3OWYyNGYxZDFjMjZmZjRlMQ
+
+#EXTINF:-1,第３話 【木村拓哉主演 映画『グランメゾン パリ』2024冬 劇場公開】
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/e2d0cba2-0a13-4a7e-9871-7981bb488cb3/10s/master.m3u8?fastly_token=NjZmYjlkZWNfOTk4OTVjOWViMDJhYWRmZTNlNjljZjg0Yzg0NDYyY2NmNzY4MjYwYzM4NjQxOTI1ODYxZDA4NjRmN2NmZTlhOQ
+
+#EXTINF:-1,第４話 【木村拓哉主演 映画『グランメゾン パリ』2024冬 劇場公開】
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/db32714e-9495-44fd-a632-fba7f7d059e5/10s/master.m3u8?fastly_token=NjZmYmFiYzdfODAyNmEzYzhhNTYwZmJhZDg5MmNlZGU5Y2IwODQ4YTQyNDk0OWZkYzkyNjNiY2QxOTZkZTQzZWM2ZTIwN2JkOQ
+
+#EXTINF:-1,第５話 【木村拓哉主演 映画『グランメゾン パリ』2024冬 劇場公開】
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/eeaa7334-ac51-410e-ad7f-23eb33aefe32/10s/master.m3u8?fastly_token=NjZmYmFkY2JfYTJkNjQyOTAyMzUwYjNjZGVkNGFlOWVmOWY2Y2U5ZTUxOTc2NzE1NzFmMTcyYTY3OTczZmYxYmVhZDIyOGZhOA
+
 
 #EXTINF:-1,#1　2周目の人生スタート
 #https://tver.jp/episodes/ep1eadlri1
@@ -40,4 +52,3 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098883001/1f9de1
 
 #EXTINF:-1,第6話　夫に隠し子!?セレブに最大危機
 https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098883001/9b277272-54bb-4f2c-b537-1a9720851d5e/10s/master.m3u8?fastly_token=NjZmNTZhZDZfNGU4MjhhY2QyMzQ1OGEzZWI5NmFkZjU3NzFhMzVjODM2NGI4ZTE3MDRlNDYyNDNhNWY4Yzk1ZTdlNzRjYjM2Yw
-
