@@ -1,6 +1,4 @@
-
-
-
+#EXTM3U
 #EXTINF:-1 group-title="Live2" ,靖天日本台
 http://61.58.60.230:9000/live/243.m3u8
 #EXTINF:-1 group-title="Live2" ,靖洋卡通
