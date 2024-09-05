@@ -1,17 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live2" ,靖天日本台
-http://61.58.60.230:9000/live/243.m3u8
-#EXTINF:-1 group-title="Live2" ,靖洋卡通
-http://61.58.60.230:9000/live/206.m3u8
-#EXTINF:-1 group-title="Live2" ,靖天歡樂台
-http://61.58.60.230:9000/live/201.m3u8
-#EXTINF:-1 group-title="Live2" ,靖洋戲劇台
-http://61.58.60.230:9000/live/203.m3u8
+
+
 #EXTINF:-1 group-title="Live2" ,緯來日本HD
 http://211.72.174.95:8119/0.ts
-#EXTINF:-1 group-title="Live2" ,國家地理
-http://211.72.174.95:8104/0.ts
-#EXTINF:-1 group-title="Live2" ,衛視中文台
-http://211.72.174.95:8106/0.ts
+
+#EXTINF:-1 group-title="Live2" ,8119
+http://211.72.174.95:8141/0.ts
+#EXTINF:-1 group-title="Live2" ,8142
+http://211.72.174.95:8142/0.ts
+#EXTINF:-1 group-title="Live2" ,HBO
+http://211.72.174.95:8140/0.ts
+
+#EXTINF:-1 group-title="Live2" ,8119
+http://211.72.174.95:8141/0.ts
+#EXTINF:-1 group-title="Live2" ,8142
+http://211.72.174.95:8142/0.ts
 #EXTINF:-1 group-title="Live2" ,HBO
 http://211.72.174.95:8143/0.ts
+
+
+#EXTINF:-1 group-title="Live2" ,44
+http://211.72.174.95:8144/0.ts
