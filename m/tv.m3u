@@ -25,9 +25,11 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/336272
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/16e8f7d8-114f-4cb5-9d3d-76595ee7f4d5/10s/master.m3u8?fastly_token=NjcwNGQ4MGNfODQ1YWM2NzNlMGY0MWVlZjMyNzAzOWE2OGIzODI1NjNlN2VjODMzYzIxN2VkYWIwN2NlOGU0M2FiODM5NmE2ZQ
 
 
+#EXTINF:-1,HERO HERO 7月14日(月)放送分 第1話 13年ぶりに復活！久利生新たな伝説の始まりは時効寸前の宝石強盗
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/6191645753001/5b826f10-4497-46a4-8490-3bf77ac0793e/10s/master.m3u8?fastly_token=NjZlMDU1YjRfMDRkZTNjYjRlYzM4MTQ0OWQ3NmIyMDY2NmExMzg4YjA1ZGEyYzhjNzNjODg0MDNkZDE4YjAwOWE4MDVhM2RiYw
 
-
-
+#EXTINF:-1,HERO HERO 9月22日(月)放送分 第11話 前代未聞の裁判員裁判！久利生検事生命をかけた決断 正義の為の最終決戦
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/6191645753001/3e33075a-b365-4448-8205-3398a0fe9e97/10s/master.m3u8?fastly_token=NjZlMDU3YTlfYmJiYmY0MDlhYjQzYzY4NzVjNjE4YTk2M2Y2YmZlY2M2ZjdiNDIyYzA0NDMyYzk2YTBhYjFjOTEwZDZhMzFmMw
 
 
 
@@ -67,3 +69,9 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098883001/1f9de1
 
 #EXTINF:-1,第6話　夫に隠し子!?セレブに最大危機
 https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098883001/9b277272-54bb-4f2c-b537-1a9720851d5e/10s/master.m3u8?fastly_token=NjZmNTZhZDZfNGU4MjhhY2QyMzQ1OGEzZWI5NmFkZjU3NzFhMzVjODM2NGI4ZTE3MDRlNDYyNDNhNWY4Yzk1ZTdlNzRjYjM2Yw
+
+
+#EXTINF:-1,この初恋はフィクションです この初恋はフィクションです 10月25日(月)放送分 EP.09
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/6b472f88-6595-4338-aec9-5c658971a9f7/10s/master.m3u8?fastly_token=NjcwNGRkNDZfYWJjNzJhZjIxYzYwMWFjOTY5ZDgzNzdjZDI1YjE2N2RlOGZiMDc3Njc0NzdmZWU3YjdmYzRiMTViOWRiOTY0MQ
+
+
