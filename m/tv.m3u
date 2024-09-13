@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,第１話 【木村拓哉主演 映画『グランメゾン パリ』2024冬 劇場公開】
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/373b0ec4-9311-4c11-9480-32406fcd6598/10s/master.m3u8?fastly_token=NjZmODM3MzZfNTU4ZGI5ZGFlYjQxNGE5NDdhYjVhNjM5NzU4MmZiODgwYThiMDYzYjNkYTNjMGY4YWE1ODYwZTBkMDk3YjU4Yw
 
@@ -24,6 +23,17 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/336272
 #EXTINF:-1,第８話 【木村拓哉主演 映画『グランメゾン パリ』2024冬 劇場公開】
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/16e8f7d8-114f-4cb5-9d3d-76595ee7f4d5/10s/master.m3u8?fastly_token=NjcwNGQ4MGNfODQ1YWM2NzNlMGY0MWVlZjMyNzAzOWE2OGIzODI1NjNlN2VjODMzYzIxN2VkYWIwN2NlOGU0M2FiODM5NmE2ZQ
 
+#EXTINF:-1,第９話 【木村拓哉主演 映画『グランメゾン パリ』2024冬 劇場公開】
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/54e21135-ee2a-4e78-89c4-3a769414273d/10s/master.m3u8?fastly_token=NjcwNmFjOGRfMjAxM2E4ZDlhZDRlZTUxY2M5Njc0ZTEzYWJmZWY4OWE5ZWU5Y2M4MDFiZWU5N2E5MmM2OTc1MTQyNWY0NzliNw
+
+#EXTINF:-1,第10話 【木村拓哉主演 映画『グランメゾン パリ』2024冬 劇場公開】
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/5f60192f-3c3e-498b-b3b4-637cf6264cad/10s/master.m3u8?fastly_token=NjcwNmIxYzVfZThkYmYwMjdhZjAzZDI5YzM4MjczMGI5MmIzYjZjM2NmODk1NDFiNTFjN2MwMDI4NDc5Yzc2MGQxOTg1NmU4Mg
+
+#EXTINF:-1,最終話 【木村拓哉主演 映画『グランメゾン パリ』2024冬 劇場公開】
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/a612d31b-c042-438b-abbc-5f5ca347838a/10s/master.m3u8?fastly_token=NjcwNmI0YTJfMWUxOGZhMTMxYjVjOTBiYTNjMzQzOGY0YjQ5NGE5MTY0Y2ZkMDVlYTE5MWY4YmVhNmM5NGQyNGFkMDczNTEzMg
+
+
+
 
 #EXTINF:-1,HERO HERO 7月14日(月)放送分 第1話 13年ぶりに復活！久利生新たな伝説の始まりは時効寸前の宝石強盗
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/6191645753001/5b826f10-4497-46a4-8490-3bf77ac0793e/10s/master.m3u8?fastly_token=NjZlMDU1YjRfMDRkZTNjYjRlYzM4MTQ0OWQ3NmIyMDY2NmExMzg4YjA1ZGEyYzhjNzNjODg0MDNkZDE4YjAwOWE4MDVhM2RiYw
@@ -45,6 +55,12 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/08f0b6
 
 #EXTINF:-1,#7　#7　変わりゆく日常
 https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/0054bece-bd05-4c97-805c-65eff8bd7655/10s/master.m3u8?fastly_token=NjZmM2JmZjNfN2ZkNjkwNzFiNGMyYWU0OWU4OGFlZDIzNTBkYjIzMzJkZjY3YTQ5YmFkOTM4OWY4MzNlMDFhMjI1NDEyNDk3Ng
+
+ #EXTINF:-1,#10(最終話)　帰る場所
+https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098882001/bd6e1690-e6a3-49cc-8be2-9339a8f4b9c3/10s/master.m3u8?fastly_token=NjcwNzgwZmJfMzUwMTE0MmUzMWUzYTU4YjY0MTNlZjlmZDdmYjg1M2YzNGRiODA0OGQxODMyNWUxMDZlMGMzMTBmYmZlNTMxOQ
+
+
+
 #EXTINF:-1,初恋不倫～この恋を初恋と呼んでいいですか～_第8話 恋のめざめ。全てを告白した妻は…
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/3971130137001/08f0e284-b2df-45bc-9980-0f4ab37c88ad/10s/master.m3u8?behavior_id=f0876aa7-0bab-4049-ab23-1b2001ff7c79&fastly_token=NjZmM2IyOTBfNTg2NjljNTI3MjdjOTk4ZmYzYTUxMjk5ZjBhNzNmNWFjZDQxYzQzODc3OTZjN2Y5MmFlZjVhZTU3NGRmNGEyOQ
 
@@ -71,7 +87,15 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098883001/1f9de1
 https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098883001/9b277272-54bb-4f2c-b537-1a9720851d5e/10s/master.m3u8?fastly_token=NjZmNTZhZDZfNGU4MjhhY2QyMzQ1OGEzZWI5NmFkZjU3NzFhMzVjODM2NGI4ZTE3MDRlNDYyNDNhNWY4Yzk1ZTdlNzRjYjM2Yw
 
 
+#EXTINF:-1,第7話　黒幕の正体判明！衝撃ラスト
+https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098883001/bfb406a8-87e5-4d87-b1ac-152772d7c349/10s/master.m3u8?fastly_token=NjcwN2RmOTlfZTk3Y2RlOWRlOWM0Mzg0ZDYxYjU0YTg4OTY1M2UwODM4ODdlOTg2YzRjNDUwMWFmNDc1NjNlMmE3YTgxYjg2Mw
+
+
+
+
 #EXTINF:-1,この初恋はフィクションです この初恋はフィクションです 10月25日(月)放送分 EP.09
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/6b472f88-6595-4338-aec9-5c658971a9f7/10s/master.m3u8?fastly_token=NjcwNGRkNDZfYWJjNzJhZjIxYzYwMWFjOTY5ZDgzNzdjZDI1YjE2N2RlOGZiMDc3Njc0NzdmZWU3YjdmYzRiMTViOWRiOTY0MQ
 
 
+#EXTINF:-1,櫻井･有吉THE夜会 9月12日(木)放送分 女優もアイドルも真剣勝負SP
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/fb062eb7-8518-42f8-8b7b-98ee28ec4e5a/10s/master.m3u8?fastly_token=NjcwN2VlM2RfYWQ1MTI5ZWM3NDY1NjIxYzU2MmQ5MWE1NjA4N2FjNzc0NjY1Nzc2ZTQ4YjA4NDAwMjk3MDU1MmU0OWI2NzY2OA
