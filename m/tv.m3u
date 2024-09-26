@@ -90,6 +90,11 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098883001/9b2772
 #EXTINF:-1,第7話　黒幕の正体判明！衝撃ラスト
 https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098883001/bfb406a8-87e5-4d87-b1ac-152772d7c349/10s/master.m3u8?fastly_token=NjcwN2RmOTlfZTk3Y2RlOWRlOWM0Mzg0ZDYxYjU0YTg4OTY1M2UwODM4ODdlOTg2YzRjNDUwMWFmNDc1NjNlMmE3YTgxYjg2Mw
 
+#EXTINF:-1,第8話　最終章…すべての謎が明らかに！
+https://manifest.prod.boltdns.net/manifest/v1/hls/v5/aes128/4394098883001/281fbbe3-53b4-4694-9208-6938934e3cec/10s/master.m3u8?fastly_token=NjcxOGE5M2NfODQ4NjYyODdmMGZmZTNkMjNjOWI1ZDA1ZTRkMzc2OWY0NWI2MDAwOWY0OWQzYjAxMTE1YWYyMjdiZmQ1OGU3MQ
+
+
+
 
 
 
@@ -99,3 +104,8 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/6b472f
 
 #EXTINF:-1,櫻井･有吉THE夜会 9月12日(木)放送分 女優もアイドルも真剣勝負SP
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/fb062eb7-8518-42f8-8b7b-98ee28ec4e5a/10s/master.m3u8?fastly_token=NjcwN2VlM2RfYWQ1MTI5ZWM3NDY1NjIxYzU2MmQ5MWE1NjA4N2FjNzc0NjY1Nzc2ZTQ4YjA4NDAwMjk3MDU1MmU0OWI2NzY2OA
+
+
+#EXTINF:-1,櫻井･有吉THE夜会 9月19日(木)放送分 重岡の地獄坂ママチャリ&めるるがろくろ対決！
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4031511847001/1d632d12-f949-400a-a881-4cfc871a3a21/10s/master.m3u8?fastly_token=NjcxOGE4ODJfM2E4ODNiYjk4OTUyYzAzYjY5YWU2Zjc1MTg0Yjg4N2VmMjRlZTQ5ODFiZTFlZWZlZGNhZjkyZTg5NWI5Y2ViMw
+
